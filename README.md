@@ -11,4 +11,5 @@ Safari/WebKit).
 - 🌎 Website: https://krieger.io
 - 🔒 PGP key: https://krieger.io/pgp-key.txt
 - 💬 Mastodon: [@codykrieger@hachyderm.io](https://hachyderm.io/@codykrieger)
+- 🦋 Bluesky: [@cody.krieger.io](https://bsky.app/profile/cody.krieger.io)
 - 📸 Instagram: [@heycjk](https://www.instagram.com/heycjk/)
